@@ -1,0 +1,40 @@
+.card{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+subtitle{ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 56px; 
+color: white;
+text-shadow: 2.5px 2px 2px #5a5656;
+border: 5px solid #72a9cd;
+border-radius: 40px;
+outline: 3px solid #3e6178;
+margin-left: 85px;
+padding-top: 3.5px;
+padding-bottom: 3.5px;
+padding-left: 8px;
+padding-right: 8px;
+}
+h2{
+  font-size: 35px;
+  margin-left: 25px;
+  text-decoration: underline rgb(58, 91, 113) 4px;
+}
+p{
+  margin-left: 35px;
+  border: 4px ;
+}
+body{
+  background-color: rgba(199, 223, 238, 0.948);
+  border-top: 0px solid #092f48e6;
+  border-bottom: 3px solid #092f48e6;
+  border-left: 3px solid #092f48e6;
+  border-right: 3px solid #092f48e6;
+}
+img {
+  width: 300px;
+  object-fit: cover;
+  margin: 20px;
+  border: 3.5px dashed ;
+  border-color:#092f48e6 ;
+
+}
